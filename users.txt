@@ -1,5 +1,2 @@
 patient1:health123:patient
 patient2:medpass:patient
-doctor:docpass:doctor  
-admin:admin123:admin
-patient1:wrongpass:patient  # duplicate
